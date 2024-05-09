@@ -16,7 +16,7 @@ function Nav({ Toggle }) {
           <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle text-white" href="#" id="dropdownId"
               data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Yousof
+              PRASANNA
             </a>
             <div className="dropdown-menu" aria-labelledby="dropdownId">
               <a className="dropdown-item" href="#">Profile</a>
